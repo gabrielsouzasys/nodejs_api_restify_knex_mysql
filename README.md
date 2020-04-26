@@ -1,2 +1,47 @@
-# nodejs_api_restify_knex_mysql
-Api de testes leitura de banco mysql com Knex(ORM) e Restify  (Com tratamento de erros http)
+
+### Instalação de Pacotes
+
+* Nodemon - Monintoramento da aplicação NODEJS
+npm install -g nodemon 
+npm install nodemon --save
+
+* Restify - Criação de API REST e Rotas
+
+* Restify-Erros - Gestor dos erros HTTP da API
+
+* Knex - Modulo para acessar ao banco Mysql
+
+* Mysql - Modulo de conexão MySql
+
+-----------------------------------------
+
+
+
+Chamar Rotas via Postman
+
+* Select Query - GET  
+/ 
+
+* Criação - POST
+/create
+
+
+* Select Show - GET  
+/show/
+
+
+
+* Update - PUT  
+/update
+
+
+
+* Delete - DELETE  
+/delete
+
+
+
+crypto
+
+
+
